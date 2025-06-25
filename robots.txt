@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cadaster.io/sitemap.xml
